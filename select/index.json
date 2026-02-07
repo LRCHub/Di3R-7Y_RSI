@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "砂塵の彼方へ…",
+  "base_artist": "Revo & 梶浦由記",
+  "createdAt": "2026-02-07T10:19:25.691663Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "砂塵の彼方へ",
+      "artist": "eastern youth",
+      "has_synced": true,
+      "path": "select/01_砂塵の彼方へ_eastern_youth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "砂塵の彼方へ…",
+      "artist": "Revo & Yuki Kajiura",
+      "has_synced": false,
+      "path": "select/02_砂塵の彼方へ..._Revo_&_Yuki_Kajiura.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "砂塵の彼方へ…",
+      "artist": "Revo & 梶浦由記",
+      "has_synced": false,
+      "path": "select/pl_01_砂塵の彼方へ..._Revo_&_梶浦由記.txt"
+    }
+  ]
+}
